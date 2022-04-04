@@ -1,0 +1,45 @@
+title: Abstract Networks
+author: pablodiegovs
+email: pablo.diegovs@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Topics about technology on networking, cloud, automation, security
+show_excerpts: true # set to true to show excerpts on the homepage
+remote_theme: samarsault/texture
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
+texture:
+  title: Pablo Vera Saavedra
+  tagline: Network Engineer
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: true
+  showPicker: false
+  navigation:
+    - title: Back to Home
+      url: "/#"
+    - title: Resume
+      url: "/resume/"
+
+  # generate social links in footer
+  social_links:
+    github:  pablodiegovs
+    linkedIn: in/pablo-diego-vs/
+    rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
