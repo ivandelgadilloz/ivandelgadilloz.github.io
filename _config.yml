@@ -1,4 +1,4 @@
-title: Network Cloud Security
+title: Network Cloud Security Engineer
 author: ivandelgadilloz
 email: j.ivan.df@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -16,15 +16,15 @@ texture:
   title: Ivan Delgadillo Fernandez
   tagline: Network Cloud Security Engineer
   date_format: "%b %-d, %Y"
-  style: green
+  style: blue
   showNav: true
   showPicker: false
   analytics_id: 'ivandelgadilloz'
   navigation:
     - title: Back to Home
       url: "/#"
-    - title: Resume
-      url: "/resume"
+    #- title: Resume
+     # url: "/resume"
 
   # generate social links in footer
   social_links:
