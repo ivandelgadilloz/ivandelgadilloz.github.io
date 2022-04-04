@@ -1,6 +1,6 @@
-title: Abstract Networks
-author: pablodiegovs
-email: pablo.diegovs@gmail.com
+title: Network Cloud Security
+author: ivandelgadilloz
+email: j.ivan.df@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Topics about technology on networking, cloud, automation, security
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -13,8 +13,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Pablo Vera Saavedra
-  tagline: Network Engineer
+  title: Ivan Delgadillo Fernandez
+  tagline: Network Cloud Security Engineer
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
@@ -27,8 +27,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    github:  pablodiegovs
-    linkedIn: in/pablo-diego-vs/
+    github:  ivandelgadilloz
+    linkedIn: in/ivandelgadilloz/
+    linktr.ee: https://linktr.ee/idelgadillo
     rss: rss
  
 
