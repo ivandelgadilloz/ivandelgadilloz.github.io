@@ -16,20 +16,21 @@ texture:
   title: Ivan Delgadillo Fernandez
   tagline: Network Cloud Security Engineer
   date_format: "%b %-d, %Y"
-  style: black
+  style: green
   showNav: true
   showPicker: false
+  analytics_id: 'ivandelgadilloz'
   navigation:
     - title: Back to Home
       url: "/#"
     - title: Resume
-      url: "/resume/"
+      url: "/resume"
 
   # generate social links in footer
   social_links:
     github:  ivandelgadilloz
     linkedIn: in/ivandelgadilloz/
-    linktr.ee: https://linktr.ee/idelgadillo
+    linktr.ee: idelgadillo
     rss: rss
  
 
